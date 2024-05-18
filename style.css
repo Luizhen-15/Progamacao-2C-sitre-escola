@@ -2,6 +2,19 @@
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+=======
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -13,6 +26,7 @@ body {
     align-items: center;
     padding: 24px 0;
 }
+>>>>>>> 175178cf093de00d75a0aecea7028607c093fb62
 
 .cabecalho-imagem{
     width: 10%;
@@ -24,10 +38,24 @@ body {
     font-size: 16px;
 }
 
+<<<<<<< HEAD
+.escola-imagem{
+    width: 25%;
+=======
 .-Chuteira{
     width: 25%;
+>>>>>>> 175178cf093de00d75a0aecea7028607c093fb62
 }
 
+<<<<<<< HEAD
+.escola{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+=======
 .Chuteira{
     background-image: linear-gradient(#3c3c3c,#8c8c8c);
     color:white;
@@ -35,10 +63,16 @@ body {
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+>>>>>>> 175178cf093de00d75a0aecea7028607c093fb62
 }
 
+<<<<<<< HEAD
+.escola-div-conteudo{
+    width: 35%;
+=======
 .Chuteira-div-conteudo{
     width: 35%;
+>>>>>>> 175178cf093de00d75a0aecea7028607c093fb62
 }
 
 
@@ -46,28 +80,75 @@ body {
     padding: 24px 0;
 }
 
+<<<<<<< HEAD
+.estudante{
+    padding: 24px 0;
+=======
 .agentes{
     padding: 24px 0;
+>>>>>>> 175178cf093de00d75a0aecea7028607c093fb62
 }
+<<<<<<< HEAD
+.estudante-imagem{
+    width: 120px;
+}
+=======
 .agente-imagem{
     width: 120px;
 }
+>>>>>>> 175178cf093de00d75a0aecea7028607c093fb62
 
+<<<<<<< HEAD
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+.estudante-div{
+=======
 .estudante-icone{
     width: 24px;
     padding: 4px 8px;
 }
 
 .agente-div{
+>>>>>>> 175178cf093de00d75a0aecea7028607c093fb62
     text-align: center;
     padding: 16px 0;
 }
 
+<<<<<<< HEAD
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+=======
 .agentes-titulo{
     text-align: center;
     padding: 50px 0;
 }
+>>>>>>> 175178cf093de00d75a0aecea7028607c093fb62
 
+<<<<<<< HEAD
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+   
+}
+
+
+
+=======
 .agentes-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
@@ -83,3 +164,5 @@ body {
     padding: 12px 0;
    
 }
+
+>>>>>>> 175178cf093de00d75a0aecea7028607c093fb62
